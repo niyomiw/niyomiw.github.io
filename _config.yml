@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Niyomi House"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Niyomi_IMG.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data science portfolio"
   location         : "Florida, USA"
   email            :
