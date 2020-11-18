@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Niyomi House"
   avatar           : "/images/Niyomi_IMG.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data science portfolio"
+  bio              : "Data Science Portfolio"
   location         : "Florida, USA"
-  email            :
+  email            : "nwijewardena@ufl.edu"
   links:
     - label: "Email"
       icon: "nwijewardena@ufl.edu"
